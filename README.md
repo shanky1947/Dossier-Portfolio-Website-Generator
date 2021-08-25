@@ -1,4 +1,30 @@
-# Portfolio Website Generator
+<h1 align="center">
+<!--   <a href="https://github.com/umangraval/Smart-Checkout"><img src="./brand_assets/banner.png" width=600 alt="Smart-Checkout"></a> -->
+  Portfolio Website Generator
+</h1>
+
+
+
+<p align="center">
+
+  <a href="">
+    <img src="https://forthebadge.com/images/badges/uses-html.svg"
+         alt="HTML">
+  </a>
+  <a href="">
+    <img src="https://forthebadge.com/images/badges/uses-css.svg"
+         alt="CSS">
+  </a>
+  <a href="">
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"
+         alt="Git">
+  </a>
+    <a href="">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg"
+         alt="Javascript">
+  </a>
+</p>
+
 
 ## Idea-
 Auto generation of portfolio website using personal data fetched from linkedin.
